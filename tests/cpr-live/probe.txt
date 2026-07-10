@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b12-wrong-trigger-label-debug",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-10T20:37:43.834769+00:00"
+}
