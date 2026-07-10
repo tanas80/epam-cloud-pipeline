@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "ai-debug-noop-after-review",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-10T20:01:20.071806+00:00"
+}
