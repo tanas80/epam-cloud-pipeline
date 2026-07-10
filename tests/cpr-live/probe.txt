@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b10-debug-without-publication",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-10T18:50:32.225056+00:00"
+}
