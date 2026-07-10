@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b13a-closed-unmerged-terminal",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-10T19:15:19.169298+00:00"
+}
