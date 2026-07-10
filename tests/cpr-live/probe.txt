@@ -1,6 +1,6 @@
 {
   "managed_by": "epam-cp-prompts live CPR suite",
   "scenario": "b14-head-advance-preserves-submitted-review",
-  "step": "create-pr",
-  "timestamp_utc": "2026-07-10T20:48:31.043877+00:00"
+  "step": "synchronize",
+  "timestamp_utc": "2026-07-10T20:49:12.065283+00:00"
 }
