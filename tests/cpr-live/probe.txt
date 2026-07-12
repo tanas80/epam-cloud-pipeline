@@ -1,6 +1,6 @@
 {
   "managed_by": "epam-cp-prompts live CPR suite",
   "scenario": "q5-open-gate-safety-stop-preserves-diagnostics",
-  "step": "create-pr",
-  "timestamp_utc": "2026-07-12T17:37:08.522727+00:00"
+  "step": "synchronize",
+  "timestamp_utc": "2026-07-12T17:37:38.263213+00:00"
 }
