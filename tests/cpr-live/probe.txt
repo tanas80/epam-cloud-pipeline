@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b8-pending-review-precedence",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-15T22:35:25.123125+00:00"
+}
