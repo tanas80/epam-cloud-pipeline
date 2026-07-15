@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b1-synchronize-draft-unlabeled",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-15T21:52:25.760924+00:00"
+}
