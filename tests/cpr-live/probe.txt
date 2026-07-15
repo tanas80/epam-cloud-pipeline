@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b4-ai-debug-draft-pr",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-15T22:27:26.316204+00:00"
+}
