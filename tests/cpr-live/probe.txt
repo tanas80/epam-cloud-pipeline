@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b7-trigger-label-pending-review",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-16T02:23:56.415266+00:00"
+}
