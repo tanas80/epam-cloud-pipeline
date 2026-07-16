@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b13b-open-gate-off",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-16T03:08:12.472344+00:00"
+}
