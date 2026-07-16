@@ -1,0 +1,6 @@
+{
+  "managed_by": "epam-cp-prompts live CPR suite",
+  "scenario": "b9-submitted-review-mode",
+  "step": "create-pr",
+  "timestamp_utc": "2026-07-16T03:25:26.439298+00:00"
+}
